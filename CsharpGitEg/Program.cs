@@ -12,6 +12,7 @@ namespace CsharpGitEg
             //mybr2
 
             //mybr3
+            Console.WriteLine("Local mybr before push");
         }
     }
 }
