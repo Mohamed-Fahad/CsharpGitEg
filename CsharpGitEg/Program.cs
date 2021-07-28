@@ -12,7 +12,12 @@ namespace CsharpGitEg
             //mybr2
 
             //mybr3
+
             Console.WriteLine("Local mybr before push");
+
+            Console.WriteLine("Remote mybr before push");
+            //new
+
         }
     }
 }
